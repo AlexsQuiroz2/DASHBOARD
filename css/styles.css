@@ -674,6 +674,7 @@ progress {
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
+
 .row > * {
   flex-shrink: 0;
   width: 100%;
@@ -11717,4 +11718,18 @@ body {
   margin-left: 640px;
   margin-top: 35px;
   margin-bottom: 50px;
+}
+
+#reloj_dash {
+  width: 250px;
+  height: 60px;
+  color: #5f5e5ec6;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 30px;
+  font-size: 50px;
+}
+
+.sb-sidenav-footer{
+  margin-top: 155px;
 }
